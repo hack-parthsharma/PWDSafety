@@ -9,11 +9,6 @@
  - Don't use the same password for different services  
  - Enable 2FA when possible  
 
-Example :bar_chart:
-----------
-
-[![asciicast](https://asciinema.org/a/406710.svg)](https://asciinema.org/a/406710)
-
 Get Started 🎉
 ----------
 
